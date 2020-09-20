@@ -370,7 +370,8 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
 * [Breaking Ed25519 in WolfSSL](https://eprint.iacr.org/2017/985.pdf) by Niels Samwel, Lejla Batina, Guido Bertoni, Joan
 Daemen, and Ruggero Susella
-* [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
+* [A Side-Channel Assisted Cryptanalytic Attack
+Against QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
 Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 * [EdDSA for more curves](https://eprint.iacr.org/2015/677.pdf) by Daniel J. Bernstein, Simon Josefsson, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 
@@ -552,3 +553,10 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 
 * [Password Managers: Under the Hood of Secrets Management](https://www.securityevaluators.com/casestudies/password-manager-hacking/)
 * [Recovering the Master Password from a Locked Password Manager (1Password 4)](https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907) by Adrian Bednarek
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
